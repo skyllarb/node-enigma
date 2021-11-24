@@ -40,7 +40,7 @@ Here are several links to help you get started:
 
 -you have to git clone this repo
 
--install inquier, there is a link provided to the right documentation.
+-install inquier or npm i or npm install. I prefer npm install because it is the swiftst, there is a link provided to the right documentation.
 
 -open up the project in yoour terminal and run node index.js 
 
