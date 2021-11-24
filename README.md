@@ -7,13 +7,10 @@
 
     Creating readme files can be time consuming and a bit tidious. This application is a remedy to that exact problem. By answering a set of questions in the terminal you are given a beautiful and professional readme to insert into your project!
 
-- What was the problem solved?
-
-    The problem that I solved was creating the back end environment for the site. Using an express.js API and sequelize I was able to interact with a MySQL database and make the application functional.
 
 - What did I learn?
 
-    I gained a better understanding of Express.js and also using a database.
+    I gained a better understanding of using javascript and practicing typing the code.
 
 ## Table of Contents
 
